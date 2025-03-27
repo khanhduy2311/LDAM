@@ -1,5 +1,4 @@
 ## Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss 
-Kaidi Cao, Colin Wei, Adrien Gaidon, Nikos Arechiga, Tengyu Ma
 _________________
 
 This is the official implementation of LDAM-DRW in the paper [Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://arxiv.org/pdf/1906.07413.pdf) in PyTorch.
